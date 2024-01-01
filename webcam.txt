@@ -1,0 +1,4 @@
+#camera="usb"
+camera="auto"
+#camera_usb_options="-r 640x480 -f 10 -d /dev/v4l/by-id/usb-046d_0825_2A56BBA0-video-index0"
+camera_usb_options="-r 640x360 -f 10 -d /dev/v4l/by-id/usb-046d_0825_2A56BBA0-video-index0"
