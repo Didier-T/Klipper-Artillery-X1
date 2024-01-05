@@ -1,2 +1,2 @@
 # Klipper-Artillery-X1
-Fichier et astuce Klipper sur X1 avec Touch-mi
+Fichier X1 avec Touch-mi ou Bl-touch Waggster
