@@ -1,14 +1,14 @@
 ### Klipper-Artillery-X1
-##Fichier configuration Sidewinder X1
+## Fichier configuration Sidewinder X1
 
-#Slicer
+# Slicer
 Pour une expérience optimal de klipper je vous conseille [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer/releases)
 
-#gcode de démarrage dans OrcaSlicer
+# gcode de démarrage dans OrcaSlicer
 ```
 START_PRINT BED_TEMP=[bed_temperature_initial_layer_single] EXTRUDER_TEMP=[nozzle_temperature_initial_layer]
 ```
-#gcode de fin dans OrcaSlicer
+# gcode de fin dans OrcaSlicer
 ```
 END_PRINT
 ```
